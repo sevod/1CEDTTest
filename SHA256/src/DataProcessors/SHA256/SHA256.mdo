@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="bc32e673-ba9c-4d84-b5d9-cd6925040fb3">
+  <producedTypes>
+    <objectType typeId="4ccea98d-4ebc-42e0-81f6-ab4d99943f2a" valueTypeId="491fd8b5-bcc5-4275-a191-38ac41dcdb13"/>
+    <managerType typeId="91c0d2b0-8537-4fb0-9535-3dc5b77c6449" valueTypeId="4fd387c0-bdff-4cdf-91b1-abb923d16e6c"/>
+  </producedTypes>
+  <name>SHA256</name>
+  <synonym>
+    <key>ru</key>
+    <value>SHA256</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>DataProcessor.SHA256.Form.Форма</defaultForm>
+  <forms uuid="265c9381-10b7-4156-a43f-b284f7032f60">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:DataProcessor>

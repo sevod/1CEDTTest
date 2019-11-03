@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="0a11af11-e65e-4f30-a707-426a728d4a8d">
+  <name>Конфигурация</name>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="0d8d1f29-bc61-4693-90fd-7c2ff76f183c"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="06b538f4-6491-4dc4-bd2d-0f95ed143a49"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="4f8c46e3-500d-475f-9d81-4adaa32aed9b"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="aeddf6a5-3aa8-4672-a264-12696e257e6d"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="d1dc5f3b-1253-43e8-9f3b-f356cc8b5385"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="65714fae-e8db-400f-9d34-252d25e245c6"/>
+  <configurationExtensionCompatibilityMode>8.3.13</configurationExtensionCompatibilityMode>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.13</compatibilityMode>
+  <languages uuid="d8bd662f-5199-4411-b064-25dea6710aba">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+  <commonModules>CommonModule.ОбщийМодуль1</commonModules>
+  <dataProcessors>DataProcessor.SHA256</dataProcessors>
+</mdclass:Configuration>
