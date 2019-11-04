@@ -1,21 +1,21 @@
-!SESSION 2019-11-04 03:50:26.921 -----------------------------------------------
+!SESSION 2019-11-04 04:33:56.861 -----------------------------------------------
 eclipse.buildId=unknown
 java.version=1.8.0_212
 java.vendor=BellSoft
 BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
-Command-line arguments:  -os win32 -ws win32 -arch x86_64
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data E:\1CRepoGit\1CEDTTest\SHA256
 
-!ENTRY org.eclipse.egit.core 1 0 2019-11-04 03:50:44.646
+!ENTRY org.eclipse.egit.core 1 0 2019-11-04 04:34:01.486
 !MESSAGE Using Apache MINA sshd as ssh client.
 
-!ENTRY com._1c.g5.v8.dt.platform.services.core 1 0 2019-11-04 03:50:45.068
+!ENTRY com._1c.g5.v8.dt.platform.services.core 1 0 2019-11-04 04:34:03.331
 !MESSAGE Trying to re-establish all non-closed SSH connecton...
 
-!ENTRY com._1c.g5.v8.dt.core 1 0 2019-11-04 03:50:46.622
+!ENTRY com._1c.g5.v8.dt.core 1 0 2019-11-04 04:34:03.488
 !MESSAGE 1C:Pult service host is https://pult.1c.ru/. Statistic collection is enabled.
 
-!ENTRY com._1c.g5.v8.dt.ui 1 0 2019-11-04 03:51:33.390
+!ENTRY com._1c.g5.v8.dt.ui 1 0 2019-11-04 04:36:19.888
 !MESSAGE EDT закрывается
 
-!ENTRY com._1c.g5.v8.dt.platform.services.core 1 0 2019-11-04 03:51:34.249
+!ENTRY com._1c.g5.v8.dt.platform.services.core 1 0 2019-11-04 04:36:20.701
 !MESSAGE All known SSH connectons released
